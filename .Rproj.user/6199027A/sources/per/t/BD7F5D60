@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597881030055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "379061410",
+    "id" : "BD7F5D60",
+    "lastKnownWriteTime" : 1597872274,
+    "last_content_update" : 1597872274,
+    "path" : "D:/Project/R_learning/My_packages/RedoxProteomics/man/occ_i.Rd",
+    "project_path" : "man/occ_i.Rd",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
